@@ -1,3 +1,2 @@
-add_lunch_combo cm_bacon-user
-add_lunch_combo cm_bacon-userdebug
-add_lunch_combo cm_bacon-eng
+export USE_CCACHE=1
+add_lunch_combo aokp_bacon-userdebug
